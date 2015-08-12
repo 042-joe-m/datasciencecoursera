@@ -1,2 +1,2 @@
 # datasciencecoursera
-This repository was created as part of the Data Scientist's Toolbox course provide by Coursera.
+20150811 - this repository was created as part of the Data Scientist's Toolbox course provided by Coursera.
